@@ -1,3 +1,0 @@
-Name: Oam Shankar A
-Skills: HTML, CSS, JS, React.js, Python
-Email: oamshankar2606@gmail.com
